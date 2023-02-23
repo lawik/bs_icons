@@ -26,4 +26,4 @@ bs_icons-*.tar
 /tmp/
 
 /bootstrap-icons-*
-png
+/priv/svg
